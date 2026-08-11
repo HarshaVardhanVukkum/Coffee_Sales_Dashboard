@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="Coffee_Sales_Dashboard" src="https://github.com/user-attachments/assets/9b565593-8949-4b4e-ad9d-acbb2a7b3ae6" /># Coffee_Sales_Dashboard
+#Coffee_Sales_Dashboard
 
 ## ☕ Power BI Coffee Sales Dashboard
 
@@ -107,7 +107,7 @@ KPI cards provide a high-level summary of:
 
 ## 🖼️ Dashboard Preview
 
-<img width="1920" height="1200" alt="Coffee_Sales_Dashboard" src="https://github.com/user-attachments/assets/71f9a599-f25c-4b39-813a-2be26902e7e1" />
+<img width="1920" height="1143" alt="Coffee_Sales_Dashboard" src="https://github.com/user-attachments/assets/55843adb-06a7-4c8c-ac0d-b361e48e2411" />
 
 
 ---
